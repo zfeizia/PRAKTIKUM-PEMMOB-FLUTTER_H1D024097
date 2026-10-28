@@ -1,6 +1,5 @@
 # Tugas Praktikum Pemrograman Mobile - Flutter
 
-## Identitas Mahasiswa
 * **Nama**: Zainab Feizia
 * **NIM**: H1D024097
 * **Shift KRS**: Shift D
